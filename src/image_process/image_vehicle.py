@@ -38,10 +38,8 @@ class VehicleImage:
         contours = cv2.findContours(erosion, cv2.RETR_EXTERNAL, cv2.CHAIN_APPROX_SIMPLE)
 
         if contours[0]:
-            print(image.shape[0:2])
             contours = contours[0] if len(contours) == 2 else contours[1]
             contour = sorted(contours, key=cv2.contourArea, reverse=True)[0]
-            print(str(self.id) + ": " + str(cv2.contourArea(contour)))
             if cv2.contourArea(contour) > contour_area_threshold:
                 return cv2.boundingRect(contour)
 
