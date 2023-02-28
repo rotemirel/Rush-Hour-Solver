@@ -17,7 +17,8 @@ Implementing an application that allows :
    <img src="https://user-images.githubusercontent.com/96941593/221947227-221251d9-05e4-4799-8764-7a11e9c1e494.jpg" width="350" >
 
 
-3: Solve
+3: Solve.
+
 4: Presenting the solution to the user:
 
 click me :)
