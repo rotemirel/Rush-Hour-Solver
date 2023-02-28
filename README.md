@@ -1,6 +1,12 @@
 # Rush-Hour-main
 
-Vision project - Implementing an application that allows :
+Vision project - Rush Hour Solver
+
+window:
+
+ <img src="https://user-images.githubusercontent.com/96941593/221950206-b5f14828-37e6-4ba1-93e1-1cee81c9fe8b.jpg" height="400"  >
+
+Implementing an application that allows :
 
 1: Upload a photo of the game board :
 
@@ -13,6 +19,8 @@ Vision project - Implementing an application that allows :
 
 3: Solve
 4: Presenting the solution to the user:
+
+click me :)
 
  <img src="https://user-images.githubusercontent.com/96941593/221949036-265a8a30-9dff-4151-ae63-096e45ed62c5.gif" width="350" >
 
