@@ -1,4 +1,4 @@
-# Rush-Hour-main
+# Rush-Hour-Solver
 
 Vision project - Rush Hour Solver
 
