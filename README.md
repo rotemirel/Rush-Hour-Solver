@@ -24,4 +24,11 @@ Implementing an application that allows :
 click me :)
 
  <img src="https://user-images.githubusercontent.com/96941593/221949036-265a8a30-9dff-4151-ae63-096e45ed62c5.gif" width="350" >
+ 
+ Presentation link :
+ 
+ https://postbguacil-my.sharepoint.com/:p:/g/personal/rotemmir_post_bgu_ac_il/EbHxeoywFrdApcKplKmv_28BUL7ewT3ugwT0-L-cbctbsw?e=io873B
 
+Video link:
+
+https://www.youtube.com/watch?v=ne6oHhBDD8Y
